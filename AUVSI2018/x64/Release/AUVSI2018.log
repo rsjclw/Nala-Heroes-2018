@@ -1,0 +1,7 @@
+﻿  mainwindow.cpp
+mainwindow.cpp(612): error C2039: 'ipHP': is not a member of 'Ui::MainWindow'
+  .\GeneratedFiles\ui_MainWindow.h(2216): note: see declaration of 'Ui::MainWindow'
+mainwindow.cpp(612): error C2227: left of '->getText' must point to class/struct/union/generic type
+mainwindow.cpp(613): error C2039: 'portHP': is not a member of 'Ui::MainWindow'
+  .\GeneratedFiles\ui_MainWindow.h(2216): note: see declaration of 'Ui::MainWindow'
+mainwindow.cpp(613): error C2227: left of '->getText' must point to class/struct/union/generic type

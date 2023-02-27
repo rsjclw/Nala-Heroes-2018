@@ -1,0 +1,6 @@
+﻿  imgproc.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\utility(224): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  imgproc.cpp(303): note: see reference to function template instantiation 'std::pair<int,int> &std::pair<int,int>::operator =<double,double>(std::pair<double,double> &&)' being compiled
+  imgproc.cpp(303): note: see reference to function template instantiation 'std::pair<int,int> &std::pair<int,int>::operator =<double,double>(std::pair<double,double> &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\utility(225): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  AUVSI2018.vcxproj -> C:\Users\BARUNASTRA-ITS\Desktop\AUVSI2018\x64\Debug\AUVSI2018.exe

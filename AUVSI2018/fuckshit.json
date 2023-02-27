@@ -1,0 +1,99 @@
+{
+    "Image 0": {
+        "Dilate0": 5,
+        "Erode0": 2,
+        "H Max0": 179,
+        "H Min0": 128,
+        "S Max0": 255,
+        "S Min0": 146,
+        "V Max0": 196,
+        "V Min0": 139
+    },
+    "Image 1": {
+        "Dilate1": 5,
+        "Erode1": 2,
+        "H Max1": 87,
+        "H Min1": 76,
+        "S Max1": 206,
+        "S Min1": 79,
+        "V Max1": 156,
+        "V Min1": 70
+    },
+    "Image 2": {
+        "Dilate2": 4,
+        "Erode2": 2,
+        "H Max2": 154,
+        "H Min2": 104,
+        "S Max2": 255,
+        "S Min2": 200,
+        "V Max2": 199,
+        "V Min2": 82
+    },
+    "Image 3": {
+        "Dilate3": 0,
+        "Erode3": 0,
+        "H Max3": 0,
+        "H Min3": 0,
+        "S Max3": 0,
+        "S Min3": 0,
+        "V Max3": 0,
+        "V Min3": 0
+    },
+    "Image 4": {
+        "Dilate4": 0,
+        "Erode4": 0,
+        "H Max4": 0,
+        "H Min4": 0,
+        "S Max4": 0,
+        "S Min4": 0,
+        "V Max4": 0,
+        "V Min4": 0
+    },
+    "Mission 1": {
+        "Speed": 1750,
+        "Stop": 4,
+        "Sudut": 0,
+        "Waypoint": 2
+    },
+    "Mission 2": {
+        "Speed": 1900,
+        "Stop": 10,
+        "Waypoint": 8
+    },
+    "Mission 3": {
+        "Speed": 1500,
+        "Status": 0,
+        "Stop": 34,
+        "Sudut": 0,
+        "Waypoint": 32
+    },
+    "Mission 4": {
+        "Speed": 1620,
+        "Stop": 20,
+        "Waypoint": 16
+    },
+    "Mission 5": {
+        "Speed": 1700,
+        "Stop": 28,
+        "Waypoint": 24
+    },
+    "Nav": {
+        "Servo Camera": 1450,
+        "Speed": 1750
+    },
+    "PID 1": {
+        "D": 67,
+        "I": 8,
+        "P": 157
+    },
+    "PID 2": {
+        "D": 12,
+        "I": 3,
+        "P": 28
+    },
+    "Return": {
+        "Speed": 1900,
+        "Waypoint": 37
+    }
+}
+

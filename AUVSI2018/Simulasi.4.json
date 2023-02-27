@@ -1,0 +1,138 @@
+{
+    "Image 0": {
+        "Dilate0": 3,
+        "Erode0": 2,
+        "H Max0": 187,
+        "H Min0": 153,
+        "S Max0": 246,
+        "S Min0": 119,
+        "V Max0": 255,
+        "V Min0": 145
+    },
+    "Image 1": {
+        "Dilate1": 4,
+        "Erode1": 2,
+        "H Max1": 103,
+        "H Min1": 85,
+        "S Max1": 255,
+        "S Min1": 180,
+        "V Max1": 177,
+        "V Min1": 95
+    },
+    "Image 2": {
+        "Dilate2": 5,
+        "Erode2": 2,
+        "H Max2": 112,
+        "H Min2": 91,
+        "S Max2": 255,
+        "S Min2": 225,
+        "V Max2": 255,
+        "V Min2": 191
+    },
+    "Image 3": {
+        "Dilate3": 4,
+        "Erode3": 3,
+        "H Max3": 220,
+        "H Min3": 150,
+        "S Max3": 255,
+        "S Min3": 105,
+        "V Max3": 189,
+        "V Min3": 95
+    },
+    "Image 4": {
+        "Dilate4": 0,
+        "Erode4": 0,
+        "H Max4": 0,
+        "H Min4": 0,
+        "S Max4": 0,
+        "S Min4": 0,
+        "V Max4": 0,
+        "V Min4": 0
+    },
+    "Image 5": {
+        "Dilate5": 5,
+        "Erode5": 5,
+        "H Max5": 183,
+        "H Min5": 161,
+        "S Max5": 255,
+        "S Min5": 191,
+        "V Max5": 255,
+        "V Min5": 176
+    },
+    "Image 6": {
+        "Dilate6": 5,
+        "Erode6": 5,
+        "H Max6": 98,
+        "H Min6": 76,
+        "S Max6": 255,
+        "S Min6": 206,
+        "V Max6": 199,
+        "V Min6": 169
+    },
+    "Mission 1": {
+        "Speed": 1750,
+        "Stop": 4,
+        "Sudut": 0,
+        "Waypoint": 2
+    },
+    "Mission 2": {
+        "Speed": 1900,
+        "Stop": 10,
+        "Waypoint": 8
+    },
+    "Mission 3": {
+        "Frequency": 71000,
+        "MaxPinger": 2,
+        "Setpoint": 180,
+        "Speed": 1560,
+        "SpeedAtas": 1650,
+        "Stop": 29,
+        "Sudut": 70,
+        "ThresholdPinger": 55,
+        "Waypoint": 26,
+        "Waypoint2": 28
+    },
+    "Mission 4": {
+        "Speed": 1590,
+        "Stop": 20,
+        "Waypoint": 14
+    },
+    "Mission 5": {
+        "BatasY": 40,
+        "Setpoint": 260,
+        "Speed": 1650,
+        "SpeedBawah": 1570,
+        "Stop": 23,
+        "Waypoint": 22
+    },
+    "Mission 6": {
+        "Speed": 1600,
+        "Stop": 37,
+        "Waypoint": 36
+    },
+    "Nav": {
+        "Servo Camera": 1450,
+        "Servo Camera 2": 1500,
+        "Speed": 1750
+    },
+    "PID 1": {
+        "D": 45,
+        "I": 5,
+        "P": 120
+    },
+    "PID 2": {
+        "D": 12,
+        "I": 3,
+        "P": 28
+    },
+    "PID 3": {
+        "D": 5,
+        "I": 1,
+        "P": 12
+    },
+    "Return": {
+        "Speed": 1900,
+        "Stop": 31,
+        "Waypoint": 30
+    }
+}

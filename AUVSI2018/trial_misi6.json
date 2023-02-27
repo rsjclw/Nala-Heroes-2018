@@ -1,0 +1,118 @@
+{
+    "Image 0": {
+        "Dilate0": 5,
+        "Erode0": 3,
+        "H Max0": 255,
+        "H Min0": 0,
+        "S Max0": 255,
+        "S Min0": 218,
+        "V Max0": 231,
+        "V Min0": 138
+    },
+    "Image 1": {
+        "Dilate1": 5,
+        "Erode1": 4,
+        "H Max1": 67,
+        "H Min1": 46,
+        "S Max1": 192,
+        "S Min1": 91,
+        "V Max1": 126,
+        "V Min1": 42
+    },
+    "Image 2": {
+        "Dilate2": 0,
+        "Erode2": 0,
+        "H Max2": 255,
+        "H Min2": 0,
+        "S Max2": 255,
+        "S Min2": 0,
+        "V Max2": 255,
+        "V Min2": 0
+    },
+    "Image 3": {
+        "Dilate3": 0,
+        "Erode3": 0,
+        "H Max3": 255,
+        "H Min3": 0,
+        "S Max3": 255,
+        "S Min3": 0,
+        "V Max3": 255,
+        "V Min3": 0
+    },
+    "Image 4": {
+        "Dilate4": 0,
+        "Erode4": 0,
+        "H Max4": 255,
+        "H Min4": 0,
+        "S Max4": 255,
+        "S Min4": 0,
+        "V Max4": 255,
+        "V Min4": 0
+    },
+    "Mission 1": {
+        "Speed": 1750,
+        "Stop": 7,
+        "Sudut": 0,
+        "Waypoint": 6
+    },
+    "Mission 2": {
+        "Speed": 1800,
+        "Stop": 11,
+        "Waypoint": 10
+    },
+    "Mission 3": {
+        "Frequency": 55000,
+        "MaxPinger": 40,
+        "Setpoint": 80,
+        "Speed": 1650,
+        "SpeedAtas": 1700,
+        "Stop": 17,
+        "Sudut": 90,
+        "ThresholdPinger": 40,
+        "Waypoint": 14,
+        "Waypoint2": 16
+    },
+    "Mission 4": {
+        "Speed": 1650,
+        "Stop": 19,
+        "Waypoint": 18
+    },
+    "Mission 5": {
+        "BatasY": 80,
+        "Speed": 1700,
+        "SpeedBawah": 1550,
+        "Stop": 23,
+        "Waypoint": 22
+    },
+    "Mission 6": {
+        "Speed": 1625,
+        "Stop": 3,
+        "Waypoint": 1
+    },
+    "Nav": {
+        "Servo Camera": 1450,
+        "Servo Camera 2": 1500,
+        "Speed": 1750
+    },
+    "PID 1": {
+        "D": 87,
+        "I": 12,
+        "P": 280
+    },
+    "PID 2": {
+        "D": 32,
+        "I": 4,
+        "P": 80
+    },
+    "PID 3": {
+        "D": 5,
+        "I": 1,
+        "P": 12
+    },
+    "Return": {
+        "Speed": 1900,
+        "Stop": 27,
+        "Waypoint": 26
+    }
+}
+
